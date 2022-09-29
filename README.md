@@ -36,7 +36,7 @@ Developed by: Senthil Kumar S
 Registration Number: 212221230091
 ```
 
-```python
+```
 import pandas as pd
 import numpy as np
 import seaborn as sns
